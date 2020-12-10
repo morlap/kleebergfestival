@@ -48,7 +48,7 @@
                 {
                  "name":"openWebsite",
                  "type":"string",
-                 "value":"https:\/\/github.com\/morlap\/kleebergfestival"
+                 "value":"https:\/\/kleebergfestival.com"
                 }],
          "type":"tilelayer",
          "visible":true,
