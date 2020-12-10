@@ -1,3 +1,7 @@
+# This maps link:
+
+https://play.workadventu.re/_/global/morlap.github.io/kleebergfestival/map.json
+
 # WorkAdventure Map Starter Kit
 
 This is a starter kit to help you build your own map for [WorkAdventure](https://workadventu.re).
