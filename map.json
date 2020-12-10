@@ -184,6 +184,17 @@
  "nextlayerid":16,
  "nextobjectid":1,
  "orientation":"orthogonal",
+ "properties":[
+        {
+         "name":"openWebsite",
+         "type":"string",
+         "value":"https:\/\/kleebergfestival.de"
+        }, 
+        {
+         "name":"openWebsiteTrigger",
+         "type":"string",
+         "value":"onaction"
+        }],
  "renderorder":"right-down",
  "tiledversion":"1.4.3",
  "tileheight":32,
