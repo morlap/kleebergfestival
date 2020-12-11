@@ -15,18 +15,6 @@
          "y":0
         }, 
         {
-         "data":[42, 42, 42, 42, 42, 42, 42, 42, 42, 20, 20, 20, 20, 20, 20, 42, 42, 20, 20, 20, 20, 20, 20, 42, 42, 20, 20, 20, 20, 20, 20, 20, 42, 20, 20, 20, 20, 20, 20, 42, 42, 20, 20, 20, 20, 20, 20, 42, 42, 20, 20, 20, 20, 20, 20, 42, 42, 42, 42, 42, 42, 42, 42, 42],
-         "height":8,
-         "id":2,
-         "name":"bottom",
-         "opacity":1,
-         "type":"tilelayer",
-         "visible":true,
-         "width":8,
-         "x":0,
-         "y":0
-        }, 
-        {
          "data":[0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 57, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0],
          "height":8,
          "id":3,
@@ -38,6 +26,54 @@
                  "type":"string",
                  "value":"map.json"
                 }],
+         "type":"tilelayer",
+         "visible":true,
+         "width":8,
+         "x":0,
+         "y":0
+        }, 
+        {
+         "data":[0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 57, 57, 0, 0, 0, 0, 0, 0, 57, 57, 0, 0, 0, 0, 0, 0, 0, 0, 0],
+         "height":8,
+         "id":6,
+         "name":"openWebsite",
+         "opacity":1,
+         "properties":[
+                {
+                 "name":"openWebsite",
+                 "type":"string",
+                 "value":"https:\/\/soundcloud.com\/user-656089823\/cosmo-korg-thank-you"
+                }],
+         "type":"tilelayer",
+         "visible":true,
+         "width":8,
+         "x":0,
+         "y":0
+        }, 
+        {
+         "data":[0, 0, 0, 0, 0, 0, 0, 0, 0, 57, 57, 0, 0, 0, 0, 0, 0, 57, 57, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0],
+         "height":8,
+         "id":7,
+         "name":"openFile",
+         "opacity":1,
+         "properties":[
+                {
+                 "name":"openFile",
+                 "type":"string",
+                 "value":"file.txt"
+                }],
+         "type":"tilelayer",
+         "visible":true,
+         "width":8,
+         "x":0,
+         "y":0
+        }, 
+        {
+         "data":[42, 42, 42, 42, 42, 42, 42, 42, 42, 20, 20, 20, 20, 20, 20, 42, 42, 20, 20, 20, 20, 20, 20, 42, 42, 20, 20, 20, 20, 20, 20, 20, 42, 20, 20, 20, 20, 20, 20, 42, 42, 20, 20, 20, 20, 20, 20, 42, 42, 20, 20, 20, 20, 20, 20, 42, 42, 42, 42, 42, 42, 42, 42, 42],
+         "height":8,
+         "id":2,
+         "name":"bottom",
+         "opacity":1,
          "type":"tilelayer",
          "visible":true,
          "width":8,
@@ -67,7 +103,7 @@
          "x":0,
          "y":0
         }],
- "nextlayerid":6,
+ "nextlayerid":8,
  "nextobjectid":1,
  "orientation":"orthogonal",
  "renderorder":"right-down",
@@ -179,6 +215,16 @@
          "spacing":0,
          "tilecount":64,
          "tileheight":32,
+         "tiles":[
+                {
+                 "id":37,
+                 "properties":[
+                        {
+                         "name":"collisions",
+                         "type":"bool",
+                         "value":true
+                        }]
+                }],
          "tilewidth":32
         }],
  "tilewidth":32,
