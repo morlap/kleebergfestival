@@ -42,7 +42,7 @@
                 {
                  "name":"openWebsite",
                  "type":"string",
-                 "value":"https:\/\/soundcloud.com"
+                 "value":"https:\/\/www.youtube.com\/watch?v=Q8Tiz6INF7I"
                 }],
          "type":"tilelayer",
          "visible":true,
@@ -58,9 +58,9 @@
          "opacity":1,
          "properties":[
                 {
-                 "name":"openFile",
+                 "name":"openWebsite",
                  "type":"string",
-                 "value":"file.txt"
+                 "value":"https:\/\/youtu.be\/Q8Tiz6INF7I"
                 }],
          "type":"tilelayer",
          "visible":true,
