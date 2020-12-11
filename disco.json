@@ -42,7 +42,7 @@
                 {
                  "name":"openWebsite",
                  "type":"string",
-                 "value":"https:\/\/www.youtube.com\/watch?v=Q8Tiz6INF7I"
+                 "value":"http:\/\/www.mtv.de\/musik\/videoclips\/nqfpac\/black-eyed-peas-girl-like-me"
                 }],
          "type":"tilelayer",
          "visible":true,
@@ -60,7 +60,7 @@
                 {
                  "name":"openWebsite",
                  "type":"string",
-                 "value":"https:\/\/youtu.be\/Q8Tiz6INF7I"
+                 "value":"https:\/\/www.radio.de\/s\/visby"
                 }],
          "type":"tilelayer",
          "visible":true,
