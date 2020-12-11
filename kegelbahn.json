@@ -53,9 +53,9 @@
          "opacity":1,
          "properties":[
                 {
-                 "name":"exitSceneUrl",
+                 "name":"exitUrl",
                  "type":"string",
-                 "value":"map.json"
+                 "value":"map.json#start_kegelbahn"
                 }],
          "type":"tilelayer",
          "visible":true,
@@ -920,7 +920,7 @@
                  "id":400,
                  "properties":[
                         {
-                         "name":"collisions",
+                         "name":"collides",
                          "type":"bool",
                          "value":true
                         }]
@@ -929,7 +929,7 @@
                  "id":401,
                  "properties":[
                         {
-                         "name":"collisions",
+                         "name":"collides",
                          "type":"bool",
                          "value":true
                         }]
@@ -938,7 +938,7 @@
                  "id":402,
                  "properties":[
                         {
-                         "name":"collisions",
+                         "name":"collides",
                          "type":"bool",
                          "value":true
                         }]
@@ -947,7 +947,7 @@
                  "id":403,
                  "properties":[
                         {
-                         "name":"collisions",
+                         "name":"collides",
                          "type":"bool",
                          "value":true
                         }]
@@ -956,7 +956,7 @@
                  "id":404,
                  "properties":[
                         {
-                         "name":"collisions",
+                         "name":"collides",
                          "type":"bool",
                          "value":true
                         }]
@@ -965,7 +965,7 @@
                  "id":405,
                  "properties":[
                         {
-                         "name":"collisions",
+                         "name":"collides",
                          "type":"bool",
                          "value":true
                         }]
@@ -974,7 +974,7 @@
                  "id":408,
                  "properties":[
                         {
-                         "name":"collisions",
+                         "name":"collides",
                          "type":"bool",
                          "value":true
                         }]
@@ -983,7 +983,7 @@
                  "id":409,
                  "properties":[
                         {
-                         "name":"collisions",
+                         "name":"collides",
                          "type":"bool",
                          "value":true
                         }]
@@ -992,7 +992,7 @@
                  "id":410,
                  "properties":[
                         {
-                         "name":"collisions",
+                         "name":"collides",
                          "type":"bool",
                          "value":true
                         }]
@@ -1001,7 +1001,7 @@
                  "id":411,
                  "properties":[
                         {
-                         "name":"collisions",
+                         "name":"collides",
                          "type":"bool",
                          "value":true
                         }]
@@ -1010,7 +1010,7 @@
                  "id":412,
                  "properties":[
                         {
-                         "name":"collisions",
+                         "name":"collides",
                          "type":"bool",
                          "value":true
                         }]
@@ -1019,7 +1019,7 @@
                  "id":413,
                  "properties":[
                         {
-                         "name":"collisions",
+                         "name":"collides",
                          "type":"bool",
                          "value":true
                         }]
@@ -1028,7 +1028,7 @@
                  "id":741,
                  "properties":[
                         {
-                         "name":"collisions",
+                         "name":"collides",
                          "type":"bool",
                          "value":true
                         }]
@@ -1037,7 +1037,7 @@
                  "id":742,
                  "properties":[
                         {
-                         "name":"collisions",
+                         "name":"collides",
                          "type":"bool",
                          "value":true
                         }]
@@ -1046,7 +1046,7 @@
                  "id":743,
                  "properties":[
                         {
-                         "name":"collisions",
+                         "name":"collides",
                          "type":"bool",
                          "value":true
                         }]
@@ -1055,7 +1055,7 @@
                  "id":749,
                  "properties":[
                         {
-                         "name":"collisions",
+                         "name":"collides",
                          "type":"bool",
                          "value":true
                         }]
@@ -1064,7 +1064,7 @@
                  "id":750,
                  "properties":[
                         {
-                         "name":"collisions",
+                         "name":"collides",
                          "type":"bool",
                          "value":true
                         }]
@@ -1073,7 +1073,7 @@
                  "id":751,
                  "properties":[
                         {
-                         "name":"collisions",
+                         "name":"collides",
                          "type":"bool",
                          "value":true
                         }]
@@ -1082,7 +1082,7 @@
                  "id":757,
                  "properties":[
                         {
-                         "name":"collisions",
+                         "name":"collides",
                          "type":"bool",
                          "value":true
                         }]
@@ -1091,7 +1091,7 @@
                  "id":758,
                  "properties":[
                         {
-                         "name":"collisions",
+                         "name":"collides",
                          "type":"bool",
                          "value":true
                         }]
@@ -1100,7 +1100,7 @@
                  "id":759,
                  "properties":[
                         {
-                         "name":"collisions",
+                         "name":"collides",
                          "type":"bool",
                          "value":true
                         }]
@@ -1109,7 +1109,7 @@
                  "id":861,
                  "properties":[
                         {
-                         "name":"collisions",
+                         "name":"collides",
                          "type":"bool",
                          "value":true
                         }]
@@ -1127,7 +1127,7 @@
                  "id":877,
                  "properties":[
                         {
-                         "name":"collisions",
+                         "name":"collides",
                          "type":"bool",
                          "value":true
                         }]
@@ -1136,7 +1136,7 @@
                  "id":878,
                  "properties":[
                         {
-                         "name":"collisions",
+                         "name":"collides",
                          "type":"bool",
                          "value":true
                         }]
@@ -1145,7 +1145,7 @@
                  "id":879,
                  "properties":[
                         {
-                         "name":"collisions",
+                         "name":"collides",
                          "type":"bool",
                          "value":true
                         }]

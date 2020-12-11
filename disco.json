@@ -22,9 +22,9 @@
          "opacity":1,
          "properties":[
                 {
-                 "name":"exitSceneUrl",
+                 "name":"exitUrl",
                  "type":"string",
-                 "value":"map.json"
+                 "value":"map.json#start_disco"
                 }],
          "type":"tilelayer",
          "visible":true,
@@ -42,7 +42,7 @@
                 {
                  "name":"openWebsite",
                  "type":"string",
-                 "value":"https:\/\/soundcloud.com\/user-656089823\/cosmo-korg-thank-you"
+                 "value":"https:\/\/soundcloud.com"
                 }],
          "type":"tilelayer",
          "visible":true,
@@ -220,7 +220,7 @@
                  "id":37,
                  "properties":[
                         {
-                         "name":"collisions",
+                         "name":"collides",
                          "type":"bool",
                          "value":true
                         }]
