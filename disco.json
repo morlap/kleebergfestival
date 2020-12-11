@@ -42,7 +42,7 @@
                 {
                  "name":"openWebsite",
                  "type":"string",
-                 "value":"http:\/\/www.mtv.de\/musik\/videoclips\/nqfpac\/black-eyed-peas-girl-like-me"
+                 "value":"https:\/\/open.spotify.com\/playlist\/37i9dQZF1DX2mmt7R81K2b?si=rSd8DmC8T-2wMn0ptfSwkweyed-peas-girl-like-me"
                 }],
          "type":"tilelayer",
          "visible":true,
