@@ -1,4 +1,11 @@
 { "compressionlevel":-1,
+ "editorsettings":
+    {
+     "export":
+        {
+         "target":"."
+        }
+    },
  "height":8,
  "infinite":false,
  "layers":[
@@ -42,7 +49,7 @@
                 {
                  "name":"openWebsite",
                  "type":"string",
-                 "value":"https:\/\/open.spotify.com\/playlist\/37i9dQZF1DX2mmt7R81K2b?si=rSd8DmC8T-2wMn0ptfSwkweyed-peas-girl-like-me"
+                 "value":"spotify:playlist:37i9dQZF1E4wXXhfQxVVuL"
                 }],
          "type":"tilelayer",
          "visible":true,
